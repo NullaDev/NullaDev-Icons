@@ -1,3 +1,3 @@
-# NullaDev-Icons
+# NullaDev 开发组图标库
 ![NullaDev](../master/NullaDev.png?raw=true)
-Some SVG icons of NullaDev
+库中包含NullaDev开发组所用图标
